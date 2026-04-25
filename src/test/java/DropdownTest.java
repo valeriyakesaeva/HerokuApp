@@ -12,6 +12,12 @@ import org.testng.asserts.SoftAssert;
 import java.time.Duration;
 import java.util.List;
 
+/*
+3. Dropdown - Взять все элементы дроп-дауна и проверить их наличие.
+Выбрать первый, проверить, что он выбран, выбрать второй, проверить, что он выбран
+Локатор: By.id(“dropdown”)
+ */
+
 public class DropdownTest {
 
     @Test
