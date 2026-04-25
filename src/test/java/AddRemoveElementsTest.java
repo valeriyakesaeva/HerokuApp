@@ -7,6 +7,11 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import java.time.Duration;
 
+/*
+1. Add/Remove Elements - добавить 2 элемента, удалить элемент, проверить количество элементов DELETE
+Локаторы xpath: a. By.xpath("//button[text()='Add Element']") b. By.xpath("//button[text()='Delete']")
+ */
+
 public class AddRemoveElementsTest {
 
     @Test

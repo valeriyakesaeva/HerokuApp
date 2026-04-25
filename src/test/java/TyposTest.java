@@ -5,8 +5,11 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-
 import java.time.Duration;
+
+/*
+5. Typos - Проверить соответствие параграфа орфографии Локатор: By.tagName(“p”)
+ */
 
 public class TyposTest {
 
