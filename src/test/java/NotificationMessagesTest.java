@@ -13,7 +13,7 @@ import java.time.Duration;
 import java.util.HashMap;
 
 /*
-8. * Notification Messages - кликнуть на кнопку, дождаться появления нотификации,
+8. Notification Messages - кликнуть на кнопку, дождаться появления нотификации,
 проверить соответствие текста ожиданиям
  */
 
